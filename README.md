@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woolleya
 - 👀 I’m interested in building open source software
-- 🌱 I’m currently learning GoLang, Rust
+- 🌱 I’m currently learning GoLang!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me here or alan@woolley.me
 
